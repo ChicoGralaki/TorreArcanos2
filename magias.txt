@@ -1,0 +1,6 @@
+# Banco de magias externas — formato: TIPO|NOME|CUSTO_MANA|USOS_CRITICO|EFEITO
+# Linhas com # são comentários e serão ignoradas
+ATAQUE|Meteoro|25|4|50
+ATAQUE|Relâmpago Duplo|18|3|35
+DEFESA|Escudo de Cristal|14|3|28
+DEFESA|Cura Profunda|20|5|45
