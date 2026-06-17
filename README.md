@@ -4,6 +4,11 @@
 
 Este projeto foi construído como Trabalho Final da disciplina de Programação Orientada a Objetos I (POO I) do curso de Ciência da Computação (Universidade Estadual do Centro-Oeste - UNICENTRO), sob orientação da Profa. Inali Wisniewski Soares.
 
+Utilização dos conceitos de POO: Encapsulamento e
+Ocultação de Informações, Herança, Interface, classe
+abstrata, polimorfismo, agregação/composição, tratamento
+de exceções, estrutura de dados e arquivos.
+
 ---
 
 ## 📜 Descrição do Jogo
