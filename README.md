@@ -21,6 +21,6 @@ Para compilar e jogar "A Torre dos Arcanos", certifique-se de ter o [Java Develo
 1. Clone este repositório ou baixe os arquivos fonte.
 2. Abra o terminal (ou Prompt de Comando/PowerShell) e navegue até a pasta raiz do projeto.
 3. Compile o código rodando o comando:
+   
 javac -d out (Get-ChildItem -Recurse -Filter *.java | % FullName); java -cp out torrearcanos.visao.MotorTextual
-   ```bash
 javac -encoding UTF-8 -d . torrearcanos/**/*.java
